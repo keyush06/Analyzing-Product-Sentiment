@@ -1,6 +1,6 @@
 # Analyzing-Product-Sentiment
 
-In this case study, the aim is to analyze the sentiments of the customers for a product on the basis of the reviews provided by them. The model created predicts a class (positive/negative sentiment) from input features (text of the reviews, user profile information,...).
+In this case study, the aim is to analyze the sentiments of the customers for a product on the basis of the reviews provided by them. The model created predicts a class (positive/negative sentiment) from input features (text of the reviews, user profile information etc)
 
 ##### This task is an example of classification, one of the most widely used areas of machine learning
 
